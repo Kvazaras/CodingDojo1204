@@ -1,0 +1,7 @@
+
+x
+java:S1450"]Remove the "listViewResult" field and declare it as a local variable in the relevant methods.(Š«¾±þÿÿÿÿ
+F
+java:S1172/"+Remove this unused method parameter "view".(í¼Á¶ýÿÿÿÿ
+J
+java:S18742"/Remove this use of "execute"; it is deprecated.(œîÓ¥øÿÿÿÿ
